@@ -23,10 +23,6 @@ public abstract class Karyawan {
     return alamat;
   }
 
-  public void getAdress(String alamatBaru) {
-    alamat = alamatBaru;
-  }
-
   public int getNumber() {
     return nomor;
   }
